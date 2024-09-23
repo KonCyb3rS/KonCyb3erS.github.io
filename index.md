@@ -2,14 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Hello, I'm Bao (Kon)
 
 Final-year student majoring in Information Technology, specializing in Networking and Cybersecurity at Ho Chi Minh City University of Technology and Education.
@@ -17,6 +9,7 @@ Final-year student majoring in Information Technology, specializing in Networkin
 # Objective
 
 > I am currently seeking an internship opportunity that aligns with my major in Networking and Cybersecurity, where I can apply my knowledge and skills in a practical environment and further develop my expertise.
+
 
 # Skills
 
